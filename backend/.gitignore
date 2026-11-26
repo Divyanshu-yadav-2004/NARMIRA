@@ -1,0 +1,11 @@
+node_modules/
+dist/
+coverage/
+.env
+.env.*
+!.env.example
+.local-postgres/
+.pg-init-pass
+*.log
+.prisma/
+src/database/generated/

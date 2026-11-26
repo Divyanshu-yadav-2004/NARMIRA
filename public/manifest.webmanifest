@@ -1,0 +1,25 @@
+{
+  "name": "NARMIRA — Maheshwari Ethnic Fashion",
+  "short_name": "NARMIRA",
+  "description": "The Soul of Maheshwar, The Style of Today. Shop Maheshwari sarees, kurta sets, kurtis, and dupattas.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#F8F5EF",
+  "theme_color": "#632D35",
+  "icons": [
+    {
+      "src": "/icons/icon-192.svg",
+      "sizes": "192x192 any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icons/icon-512.svg",
+      "sizes": "512x512 any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
